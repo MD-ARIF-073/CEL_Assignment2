@@ -1,0 +1,10 @@
+C:\Users\Arif Istiaq\source\repos\StudentProject\bin\Debug\StudentProject.exe.config
+C:\Users\Arif Istiaq\source\repos\StudentProject\bin\Debug\StudentProject.exe
+C:\Users\Arif Istiaq\source\repos\StudentProject\bin\Debug\StudentProject.pdb
+C:\Users\Arif Istiaq\source\repos\StudentProject\obj\Debug\StudentProject.csproj.AssemblyReference.cache
+C:\Users\Arif Istiaq\source\repos\StudentProject\obj\Debug\StudentProject.Form1.resources
+C:\Users\Arif Istiaq\source\repos\StudentProject\obj\Debug\StudentProject.Properties.Resources.resources
+C:\Users\Arif Istiaq\source\repos\StudentProject\obj\Debug\StudentProject.csproj.GenerateResource.cache
+C:\Users\Arif Istiaq\source\repos\StudentProject\obj\Debug\StudentProject.csproj.CoreCompileInputs.cache
+C:\Users\Arif Istiaq\source\repos\StudentProject\obj\Debug\StudentProject.exe
+C:\Users\Arif Istiaq\source\repos\StudentProject\obj\Debug\StudentProject.pdb
